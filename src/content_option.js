@@ -1,4 +1,4 @@
-const logotext = "R.N";
+const logotext = "Rahul Narigara";
 const meta = {
     title: "Rahul Narigara",
     description: "I’m Rahul Narigara _ Full stack devloper,currently working in Mumbai",
